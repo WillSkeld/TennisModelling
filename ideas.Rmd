@@ -1,0 +1,14 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Got a naive knn classifier - add player gamestyles to this?
+
+Think of states for each shot from columns
+
+Plan simple Markov Model from serves to win chances
+
+```{r}
+plot(cars)
+```
